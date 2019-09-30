@@ -1,0 +1,29 @@
+body {
+  font-family: "Segoe UI", "Arial", "sans-serif";
+  font-size: 13px;
+}
+
+#filter label {
+  margin-left: 12px;
+  margin-right: 4px;
+}
+
+#travellersList {
+  list-style-type: none;
+  margin-left: 12px;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+#travellersList li {
+  padding: 12px;
+  margin-bottom: 8px;
+  background-color: #e6e6e6;
+}
+
+#travellersList li p {
+  margin: 0;
+}
+
