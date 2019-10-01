@@ -41,6 +41,6 @@ io.on("connection", (socket) => {
 
 server.listen(
   port,
-  "192.168.8.106",
+  "localhost",
   console.log(`=== Server running on port ${port} ===`)
 )
